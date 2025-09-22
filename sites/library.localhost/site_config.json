@@ -1,0 +1,6 @@
+{
+ "db_name": "test_frappe",
+ "db_password": "test_frappe",
+ "db_type": "postgres",
+ "db_user": "test_frappe"
+}
