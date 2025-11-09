@@ -8,14 +8,14 @@
         "idx": 1,
         "version": "16.0.0-dev"
     },
-    "library_management": {
+    "phucloccoffee": {
         "is_repo": true,
         "resolution": {
-            "commit_hash": "d2a9c6527e16dc56dd0f99a29046ec19b153a17a",
+            "commit_hash": "0598c9d5b3a55ea80ae2c52a230c30fbc9db230c",
             "branch": "develop"
         },
         "required": [],
-        "idx": 2,
+        "idx": 3,
         "version": "0.0.1"
     }
 }
